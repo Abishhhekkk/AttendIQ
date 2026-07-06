@@ -30,7 +30,7 @@ const token=Math.random().toString(36).substring(2,10);
 
 document.getElementById("qr").src=
 
-`https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=http://127.0.0.1:5000/student?token=${token}`;
+`https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=https://attendiq-4wpc.onrender.com/student?token=${token}`;
 
 },5000);
 
