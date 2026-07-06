@@ -1,13 +1,58 @@
 {
     "students": {
-        "24BCT061": {
-            "name": "Abishek",
+        "24BCT001": {
+            "name": "Arun",
+            "attended": 18,
+            "total": 22
+        },
+        "24BCT002": {
+            "name": "Sneha",
+            "attended": 20,
+            "total": 22
+        },
+        "24BCT003": {
+            "name": "Karthik",
             "attended": 19,
+            "total": 22
+        },
+        "24BCT004": {
+            "name": "Divya",
+            "attended": 21,
+            "total": 22
+        },
+        "24BCT005": {
+            "name": "Praveen",
+            "attended": 17,
+            "total": 22
+        },
+        "24BCT021": {
+            "name": "Kanish",
+            "attended": 18,
+            "total": 22
+        },
+        "24BCT041": {
+            "name": "Prathosh",
+            "attended": 19,
+            "total": 22
+        },
+        "24BCT042": {
+            "name": "Sakthi",
+            "attended": 20,
+            "total": 22
+        },
+        "24BCT058": {
+            "name": "Surya",
+            "attended": 17,
             "total": 22
         },
         "24BCT060": {
             "name": "Uma",
             "attended": 20,
+            "total": 22
+        },
+        "24BCT061": {
+            "name": "Abishek",
+            "attended": 19,
             "total": 22
         },
         "24BCT062": {
@@ -16,11 +61,6 @@
             "total": 22
         }
     },
-    "today": [
-        {
-            "name": "Abishek",
-            "roll": "22ECE001",
-            "time": "10:52:31"
-        }
-    ]
+
+    "today": []
 }
